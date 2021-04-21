@@ -1,2 +1,3 @@
 # learning
-testrepo
+test repository for learning
+
